@@ -1,4 +1,5 @@
 public class SumCalculator {
+    //
     public int sum(int number) {
         /
         int result = 0;
